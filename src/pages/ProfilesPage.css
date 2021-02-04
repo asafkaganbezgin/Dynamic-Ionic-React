@@ -1,0 +1,20 @@
+.bd {
+    border: 2px solid gold;
+}
+
+.header-ios ion-toolbar:last-of-type {
+    --border-width: 0 0 0;
+}
+
+.header-md::after {
+    background: none;
+}
+
+#menu-title {
+    margin: auto auto;
+    padding: 1.5rem;
+}
+
+#menu-button {
+    margin: auto auto;
+}

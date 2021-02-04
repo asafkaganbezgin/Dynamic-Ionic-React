@@ -1,0 +1,7 @@
+{
+  "name": "Dynamic Ionic Mobile Interface",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

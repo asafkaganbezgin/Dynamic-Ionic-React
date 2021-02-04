@@ -1,0 +1,81 @@
+#detail-avatar {
+    padding: 0 0;
+    margin: 0 0 1rem 1rem;
+    width: 7rem;
+    height: 7rem;
+}
+
+#section-1-right {
+    align-self: center;
+}
+
+#font-default {
+    font-weight: 600;
+    margin-bottom: 0.3rem;
+}
+
+.font-name {
+    margin-top: 0.3rem;
+    font-size: large;
+}
+
+#map {
+    height: 350px;
+    width: 100%;
+}
+
+.cnt {
+    text-align: center;
+    margin: auto auto;
+}
+
+.cnt-mail > p {
+    text-align: left;
+}
+
+.basic-icon {
+    color: #3b38ff9a;
+    font-size: 32px;
+    align-self: center;
+}
+
+.gender-icon {
+    color: #3b38ff9a;
+    font-size: 48px;
+}
+
+#col-1 {
+    padding: 0px 10px;
+    padding-bottom: 30px;
+    border: 1px solid #bdbdbd6b;
+    border-bottom: none;
+    text-align: center;
+}
+
+#col-1 > h6 {
+    text-align: start;
+}
+
+#col-2 {
+    padding: 0px 10px;
+    border: 1px solid #bdbdbd6b;
+    border-bottom: none;
+}
+
+#col-2 > h1 {
+    margin: 0 0;
+    font-size: 2.7rem;
+    text-align: center;
+}
+
+#col-3 {
+    padding: 0px 10px;
+    border: 1px solid #bdbdbd6b;
+    border-bottom: none;
+}
+
+#col-3 > h1 {
+    margin: 0 0;
+    font-size: 2.7rem;
+    text-align: center;
+}
